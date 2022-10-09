@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OurNews</string>
+    <string name="this_page_font_is_cutive">ഫോർട്ട്</string>
+    <string name="next">അടുത്തത്👉🏻</string>
+    <string name="today_news">ഇന്നത്തെ വാർത്ത</string>
+    <string name="home">मुख्यपृष्ठ</string>
+    <string name="sports">കായികം</string>
+    <string name="health">ആരോഗ്യം</string>
+    <string name="science">ശാസ്ത്രം</string>
+    <string name="entertainment">വിനോദം</string>
+    <string name="technology">സാങ്കേതികവിദ്യ</string>
+    <string name="username">ഉപയോക്തൃനാമം</string>
+    <string name="username1">ഉപയോക്തൃനാമം</string>
+    <string name="password1">Password</string>
+    <string name="password">Password</string>
+    <string name="developed_by_tanay">വികസിപ്പിച്ചത്_തനയ്</string>
+    <string name="sign_up">സൈൻ അപ്പ് ചെയ്യുക</string>
+    <string name="todo">ചെയ്യാൻ</string>
+    <string name="main_heading_display_here">പ്രധാന തലക്കെട്ട് പ്രദർശനം ഇവിടെ</string>
+    <string name="specific_news">പ്രത്യേക വാർത്തകൾ</string>
+    <string name="main_content">പ്രധാന ഉള്ളടക്കം</string>
+    <string name="published_at">പ്രസിദ്ധീകരിച്ചത്</string>
+    <string name="textview">ടെക്സ്റ്റ് വ്യൂ</string>
+    <string name="textview1">ടെക്സ്റ്റ് വ്യൂ</string>
+    <string name="textview2">ടെക്സ്റ്റ് വ്യൂ</string>
+    <string name="retype_password">പാസ്വേഡ് വീണ്ടും ടൈപ്പുചെയ്യുക</string>
+    <string name="existing_user_go_to_sign_in_page">നിലവിലുള്ള ഉപയോക്താവ്! സൈൻ ഇൻ പേജിലേക്ക് പോകുക</string>
+    <string name="register">രജിസ്റ്റർ ചെയ്യുക</string>
+    <string name="sign_in">സൈൻ ഇൻ</string>
+    <string name="click_location">ലൊക്കേഷൻ ക്ലിക്ക് ചെയ്യുക</string>
+    <string name="click_storage">സ്റ്റോറേജ് ക്ലിക്ക് ചെയ്യുക</string>
+    <string name="permissions_allow">അനുമതികൾ അനുവദിക്കുക</string>
+    <string name="next3">അടുത്തത്</string>
+    <string name="please_allow_permissions">ദയവായി അനുവദിക്കൂ</string>
+    <string name="email_gmail">ഇമെയിൽ / ജിമെയിൽ</string>
+    <string name="themes">തീമുകൾ</string>
+    <string name="upload">അപ്ലോഡ്</string>
+    <string name="enter_description">വിവരണം നൽകുക</string>
+    <string name="enter_title">ശീർഷകം നൽകുക</string>
+</resources>

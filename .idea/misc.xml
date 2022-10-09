@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2975" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.2975" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.2975" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/drawable/round.xml" value="0.2975" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/font/aclonica.xml" value="0.396875" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_add_blog.xml" value="0.32897196261682243" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_blog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_blog2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_entertainment_fragement.xml" value="0.35643115942028986" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_front_page.xml" value="0.3546195652173913" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_health_fragement.xml" value="0.35643115942028986" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_home_fragement.xml" value="0.35643115942028986" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_login.xml" value="0.3546195652173913" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_main.xml" value="0.35643115942028986" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_main2.xml" value="0.35643115942028986" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_posts.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_ractivity.xml" value="0.3546195652173913" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_register.xml" value="0.3546195652173913" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_request_permissions.xml" value="0.35643115942028986" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_science_fragement.xml" value="0.35643115942028986" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_sidebar.xml" value="0.3546195652173913" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_sports_fragement.xml" value="0.35643115942028986" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_technology_fragement.xml" value="0.35643115942028986" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_theme.xml" value="0.3546195652173913" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/activity_web_view.xml" value="0.35643115942028986" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/content_blog.xml" value="0.3546195652173913" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/fragment_add_blogs.xml" value="0.3546195652173913" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/fragment_blog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/fragment_first.xml" value="0.3546195652173913" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/fragment_second.xml" value="0.3546195652173913" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/layout_item.xml" value="0.35643115942028986" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/my_selected_item.xml" value="0.35643115942028986" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/posts.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/layout/sidebar_header.xml" value="0.3546195652173913" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/menu/item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/menu/sidebar.xml" value="0.4450063211125158" />
+        <entry key="..\:/Tanay HDD/Mi D disk/My work/TYCS/Sem 5/507 Game Programming/OurNews/app/src/main/res/xml/green.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OurNews</string>
+    <string name="this_page_font_is_cutive">Fornt</string>
+    <string name="next">次へ👉🏻</string>
+    <string name="today_news">今日のニュース</string>
+    <string name="home">家</string>
+    <string name="sports">スポーツ</string>
+    <string name="developed_by_tanay">タナイ</string>
+    <string name="sign_up">サインアップ</string>
+    <string name="main_content">メインコンテンツ</string>
+    <string name="published_at">で公開</string>
+    <string name="todo">TODO</string>
+    <string name="main_heading_display_here">ここに主な見出しの表示</string>
+    <string name="specific_news">特定のニュース</string>
+    <string name="textview">TextView</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="register">登録</string>
+    <string name="existing_user_go_to_sign_in_page">既存のユーザー！サインインページに移動</string>
+    <string name="password">パスワード</string>
+    <string name="password1">パスワード</string>
+    <string name="username1">ユーザー名</string>
+    <string name="username">ユーザー名</string>
+    <string name="entertainment">エンターテイメント</string>
+    <string name="science">化学</string>
+    <string name="health">健康</string>
+    <string name="technology">テクノロジー</string>
+    <string name="sign_in">サインイン</string>
+    <string name="retype_password">パスワードを再入力してください</string>
+    <string name="permissions_allow">許可許可</string>
+    <string name="click_storage">[ストレージ]をクリックします</string>
+    <string name="click_location">[場所]をクリックします</string>
+    <string name="next3">次</string>
+    <string name="please_allow_permissions">許可してください</string>
+    <string name="email_gmail">メール / gmail</string>
+    <string name="themes">テーマ</string>
+    <string name="upload">アップロード</string>
+    <string name="enter_description">説明を入力</string>
+    <string name="enter_title">タイトルを入力</string>
+</resources>

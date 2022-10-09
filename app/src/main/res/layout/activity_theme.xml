@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Theme"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/Theme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/aclonica"
+        android:gravity="center_horizontal"
+        android:text="@string/themes"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        tools:ignore="MissingConstraints" />
+
+    <RadioGroup
+        android:id="@+id/RadioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Theme"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical"
+        android:padding="4dp">
+
+        <RadioButton
+            android:id="@+id/RbLight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:fontFamily="@font/bree_serif"
+            android:padding="10dp"
+            android:text="Light"
+            android:textSize="24sp" />
+
+        <RadioButton
+            android:id="@+id/RbDark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:text="Dark"
+            android:fontFamily="@font/bree_serif"
+            android:textSize="24sp"/>
+    </RadioGroup>
+
+</RelativeLayout>

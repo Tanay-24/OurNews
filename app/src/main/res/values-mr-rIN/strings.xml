@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OurNews</string>
+    <string name="this_page_font_is_cutive">समोर</string>
+    <string name="next">पुढे👉🏻</string>
+    <string name="today_news">आजची बातमी</string>
+    <string name="home">मुख्यपृष्ठ</string>
+    <string name="sports">खेळ</string>
+    <string name="health">आरोग्य</string>
+    <string name="science">विज्ञान</string>
+    <string name="entertainment">मनोरंजन</string>
+    <string name="technology">तंत्रज्ञान</string>
+    <string name="username">वापरकर्तानाव</string>
+    <string name="username1">वापरकर्तानाव</string>
+    <string name="password1">पासवर्ड</string>
+    <string name="password">पासवर्ड</string>
+    <string name="existing_user_go_to_sign_in_page">विद्यमान वापरकर्ता! साइन इन पृष्ठावर जा</string>
+    <string name="todo">करण्यासाठी</string>
+    <string name="published_at">येथे प्रकाशित</string>
+    <string name="sign_up">साइन अप करा</string>
+    <string name="developed_by_tanay">तनय यांनी विकसित केले आहे</string>
+    <string name="sign_in">"साइन इन "</string>
+    <string name="register">नोंदणी करा</string>
+    <string name="textview">मजकूर दृश्य</string>
+    <string name="textview1">मजकूर दृश्य</string>
+    <string name="textview2">मजकूर दृश्य</string>
+    <string name="main_heading_display_here">येथे मुख्य शीर्षक प्रदर्शन</string>
+    <string name="specific_news">विशिष्ट बातम्या</string>
+    <string name="main_content">मुख्य सामग्री</string>
+    <string name="retype_password">पासवर्ड पुन्हा टाईप करा</string>
+    <string name="permissions_allow">परवानगी</string>
+    <string name="click_storage">स्टोरेज वर क्लिक करा</string>
+    <string name="click_location">स्थान क्लिक करा</string>
+    <string name="next3">पुढे</string>
+    <string name="please_allow_permissions">कृपया परवानगी द्या</string>
+    <string name="email_gmail">ईमेल / जीमेल</string>
+    <string name="themes">थीम</string>
+    <string name="upload">अपलोड करा</string>
+    <string name="enter_description">वर्णन प्रविष्ट करा</string>
+    <string name="enter_title">शीर्षक प्रविष्ट करा</string>
+</resources>

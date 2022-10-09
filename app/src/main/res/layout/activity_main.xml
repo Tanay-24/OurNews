@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFEB3B"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/startingimg"
+        android:layout_width="213dp"
+        android:layout_height="197dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="104dp"
+        android:layout_marginTop="132dp"
+        android:layout_marginEnd="103dp"
+        android:contentDescription="TODO"
+        app:srcCompat="@drawable/news" />
+
+    <Button
+        android:id="@+id/EntryBtn"
+        android:layout_width="393dp"
+        android:layout_height="185dp"
+        android:layout_below="@+id/startingimg"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="66dp"
+        android:layout_marginBottom="141dp"
+        android:backgroundTint="#FF6F00"
+        android:fontFamily="@font/aclonica"
+        android:text="Welcome To Asa No Nettowaku !"
+        android:textAlignment="center"
+        android:textColor="#0D47A1"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

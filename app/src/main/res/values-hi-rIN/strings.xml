@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OurNews</string>
+    <string name="this_page_font_is_cutive">Fornt</string>
+    <string name="next">अगला👉🏻</string>
+    <string name="today_news">आज की खबर</string>
+    <string name="home">मुख्यपृष्ठ</string>
+    <string name="sports">खेल</string>
+    <string name="developed_by_tanay">तनय द्वारा</string>
+    <string name="todo">करने के लिए</string>
+    <string name="published_at">प्रकाशित</string>
+    <string name="sign_up">साइन अप करें</string>
+    <string name="main_content">मुख्य सामग्री</string>
+    <string name="main_heading_display_here">मुख्य शीर्षक यहाँ प्रदर्शित करें</string>
+    <string name="specific_news">विशिष्ट समाचार</string>
+    <string name="health">स्वास्थ्य</string>
+    <string name="science">विज्ञान</string>
+    <string name="entertainment">मनोरंजन</string>
+    <string name="technology">तकनीकी</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="username1">उपयोगकर्ता नाम</string>
+    <string name="password1">पासवर्ड</string>
+    <string name="password">पासवर्ड</string>
+    <string name="sign_in">साइन इन करें</string>
+    <string name="retype_password">पासवर्ड फिर से लिखें</string>
+    <string name="existing_user_go_to_sign_in_page">मौजूदा उपयोगकर्ता! साइन इन पेज पर जाएं</string>
+    <string name="register">पंजीकरण करवाना</string>
+    <string name="textview">टेक्स्टव्यू</string>
+    <string name="textview1">टेक्स्टव्यू</string>
+    <string name="textview2">टेक्स्टव्यू</string>
+    <string name="click_location">स्थान पर क्लिक करें</string>
+    <string name="click_storage">संग्रहण पर क्लिक करें</string>
+    <string name="permissions_allow">अनुमति दें</string>
+    <string name="next3">अगला</string>
+    <string name="please_allow_permissions">कृपया अनुमति दें</string>
+    <string name="email_gmail">ईमेल / जीमेल</string>
+    <string name="themes">थीम</string>
+    <string name="upload">अपलोड करें</string>
+    <string name="enter_description">विवरण दर्ज करें</string>
+    <string name="enter_title">शीर्षक दर्ज करें</string>
+</resources>

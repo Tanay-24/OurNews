@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OurNews</string>
+    <string name="this_page_font_is_cutive">ફોર્ન્ટ</string>
+    <string name="next">આગળ👉🏻</string>
+    <string name="today_news">ટુડે ન્યુઝ</string>
+    <string name="home">मुख्यपृष्ठ</string>
+    <string name="register">નોંધણી કરો</string>
+    <string name="existing_user_go_to_sign_in_page">હાલના વપરાશકર્તા! સાઇન ઇન પેજ પર જાઓ</string>
+    <string name="password">પાસવર્ડ</string>
+    <string name="password1">પાસવર્ડ</string>
+    <string name="developed_by_tanay">તનય દ્વારા ડેલીવલોપ</string>
+    <string name="textview">ટેક્સ્ટ વ્યૂ</string>
+    <string name="textview1">ટેક્સ્ટ વ્યૂ</string>
+    <string name="textview2">ટેક્સ્ટ વ્યૂ</string>
+    <string name="main_content">મિયાં સામગ્રી</string>
+    <string name="main_heading_display_here">મુખ્ય મથાળું અહીં પ્રદર્શન</string>
+    <string name="todo">શું કરવું</string>
+    <string name="published_at">પ્રકાશિત મુ</string>
+    <string name="specific_news">ચોક્કસ સમાચાર</string>
+    <string name="username1">વપરાશકર્તા નામ</string>
+    <string name="username">વપરાશકર્તા નામ</string>
+    <string name="retype_password">પાસવર્ડ પાછો દાખલ કરો</string>
+    <string name="sign_in">સાઇન ઇન</string>
+    <string name="sign_up">સાઇન અપ કરો</string>
+    <string name="science">વિજ્ઞાન</string>
+    <string name="health">આરોગ્ય</string>
+    <string name="entertainment">મનોરંજન</string>
+    <string name="technology">ટેકનોલોજી</string>
+    <string name="sports">રમતગમત</string>
+    <string name="permissions_allow">રવાનગી આપે છે</string>
+    <string name="click_storage">સંગ્રહ પર ક્લિક કરો</string>
+    <string name="click_location">લોકેશન પર ક્લિક કરો</string>
+    <string name="next3">આગળ</string>
+    <string name="please_allow_permissions">કૃપા કરીને પરવાનગી આપો</string>
+    <string name="email_gmail">ઇમેઇલ / જીમેલ</string>
+    <string name="themes">થીમ્સ</string>
+    <string name="upload">અપલોડ કરો</string>
+    <string name="enter_description">વર્ણન દાખલ કરો</string>
+    <string name="enter_title">શીર્ષક દાખલ કરો</string>
+</resources>
